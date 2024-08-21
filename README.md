@@ -18,8 +18,8 @@ Navigate into the project directory:
 ```
 cd innos-news-frontend
 ```
-## With Docker
-#### With docker-compose: ####
+## Running with Docker
+#### Using Docker Compose ####
 
 `docker-compose up --build --force-recreate`
 
