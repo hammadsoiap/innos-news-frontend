@@ -23,15 +23,12 @@ cd innos-news-frontend
 
 `docker-compose up --build --force-recreate`
 
-#### Or plain Docker:
-
-```
-docker build -t newsfrontend-react .
-```
 ### Without docker  
-Install node modules with below command:
+First, install the necessary node modules:
+To start the application in development mode, use:
 ```
 npm install
+npm start
 ```
 
 
