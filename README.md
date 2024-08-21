@@ -45,7 +45,7 @@ The page will automatically reload if you make any edits, and any lint errors wi
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-## Backend repo link ##
+## Backend repository link ##
   - [https://github.com/hammadsoiap/innos-news-frontend](https://github.com/hammadsoiap/Innos-news-backend/)
 
 ### Screentshots
