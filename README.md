@@ -1,28 +1,27 @@
-# News Backend React Assessment
- This assessment using Materail UI for the News website assessment.
+# Innos-news Frontend React 
+This project is a React-based News website assessment, utilizing Material UI.
 
 ## Requirement
-- Minimum Npm version : 9.5.1
-- Minimum Node version : 18.16.0
+- Minimum Npm version : 6.14.13
+- Minimum Node version : 16.20.2
 
 ## Installation
-
-Clone the repository:
+ 
+Start by cloning the repository:
 
 ```
 git clone https://github.com/hammadsoiap/innos-news-frontend.git
 
-
 ```
 
-Then cd into the folder with this command:
+Navigate into the project directory:
 ```
-cd newsfrontend-react
+cd innos-news-frontend
 ```
 ## With Docker
 #### With docker-compose: ####
 
-`docker-compose up`
+`docker-compose up --build --force-recreate`
 
 #### Or plain Docker:
 
